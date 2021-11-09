@@ -11,10 +11,10 @@
     "fonts",
     "patterns"
   ],
-  "homepage": "https://github.com/Annihil/github-spray",
+  "homepage": "https://github.com/janemiceli/github-spray",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Annihil/github-spray.git"
+    "url": "https://github.com/janemiceli/github-spray.git"
   },
   "keywords": [
     "graffiti",
@@ -31,7 +31,7 @@
   "author": "Annihil",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Annihil/github-spray/issues"
+    "url": "https://github.com/janemiceli/github-spray/issues"
   },
   "dependencies": {
     "commander": "^2.19.0",
